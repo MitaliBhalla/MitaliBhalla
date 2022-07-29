@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitali Bhalla</h1>
+<h1 align="center">Hi , I'm Mitali Bhalla</h1>
 <h3 align="center">A passionate Engineer with a special corner for Computer Science</h3>
 
 
