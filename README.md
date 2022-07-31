@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bhalla.mitali199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUzNsOdIrgQoSNeR0ABwQc2EkNBQW5MQ/view?usp=sharing](https://drive.google.com/file/d/1CUzNsOdIrgQoSNeR0ABwQc2EkNBQW5MQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mOj4cHbcCX9Cq9U_scruJdH4YzKfD4za/view?usp=sharing](https://drive.google.com/file/d/1mOj4cHbcCX9Cq9U_scruJdH4YzKfD4za/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
