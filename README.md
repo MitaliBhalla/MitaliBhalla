@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **bhalla.mitali199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mOj4cHbcCX9Cq9U_scruJdH4YzKfD4za/view?usp=sharing](https://drive.google.com/file/d/1mOj4cHbcCX9Cq9U_scruJdH4YzKfD4za/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/mitali-bhalla-74b12a1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitali bhalla" height="30" width="40" /></a>
